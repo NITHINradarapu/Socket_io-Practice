@@ -10,6 +10,7 @@
   "author": "Nithin",
   "license": "ISC",
   "dependencies": {
+    "better-sqlite3": "^12.6.0",
     "express": "^4.22.1",
     "socket.io": "^4.8.3"
   }
